@@ -1,5 +1,7 @@
 
-#This is my first Jupyter README file!
+#Data Science from Scratch Homework
+
+<img src="cover.jpg" title="Cover" />
 
 
     
